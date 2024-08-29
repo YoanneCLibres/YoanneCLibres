@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YoanneCLibres
 - 👀 I’m interested in dancing
-- 🌱 I’m currently learning comp sci
+- 🌱 I’m currently learning in PISAY
 - 💞️ I’m looking to collaborate on groupworks  
 - 📫 How to reach me: email - yoanne.libres@smc.pshs.edu.ph
 - 😄 Pronouns: She/Her
